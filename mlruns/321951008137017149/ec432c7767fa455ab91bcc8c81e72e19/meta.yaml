@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alperitoo/OneDrive/Masaüstü/BAU-4.2/MLOPS/AIN3009/TERM-PROJECT/TERMPROJECT-ALPERCAKIR-2003603/CarBrands/CarBrandsArtifacts/ec432c7767fa455ab91bcc8c81e72e19/artifacts
+end_time: 1715968247856
+entry_point_name: ''
+experiment_id: '321951008137017149'
+lifecycle_stage: active
+run_id: ec432c7767fa455ab91bcc8c81e72e19
+run_name: ResNet18_Adam_lr=0.001_batch_size=32_dropout=0.8_2024_05_17-19_35_12
+run_uuid: ec432c7767fa455ab91bcc8c81e72e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966031156
+status: 4
+tags: []
+user_id: Alperitoo
